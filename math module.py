@@ -1,0 +1,11 @@
+import math
+print("value of pie=",math.pi)
+print("value of e is =",math.e)
+print("square root of 16 is",math.sqrt(16))
+print("power of 2^3 is",math.pow(3,2))
+print("gcd of 12 and 16 is",math.gcd(12,16))
+print("floor value of 5.9 is",math.floor(5.9))
+print("ceiling value of 5.9 is",math.ceil(5.9))
+print("factorial of 5 is",math.factorial(5))
+print("logarithm of 100 is",math.log(100,10))
+print("factorial of 5 is",math.factorial(5))
